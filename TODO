@@ -1,0 +1,15 @@
+// TODO
+
+// HARD
+
+- Zweiten Entity erstellen
+- Kollisionen abfragen
+- player_1 soll Schaden bekommen bei Kollision //really?
+- player_1 animation bei Schaden // vielleicht nur bei kritischen Schaden
+- player_1 animation bei Angriff
+- entity Waffe spawnen
+- Waffe Kollision abfragen
+
+// SOFT
+
+- Bewegungen verbessern
